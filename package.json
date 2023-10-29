@@ -1,0 +1,10 @@
+{
+  "type": "module",
+  "dependencies": {
+    "three": "^0.158.0"
+  },
+  "devDependencies": {
+    "vite": "^4.5.0",
+    "vite-plugin-glsl": "^1.1.2"
+  }
+}
