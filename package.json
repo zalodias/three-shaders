@@ -1,4 +1,5 @@
 {
+  "name": "three-shaders",
   "type": "module",
   "dependencies": {
     "three": "^0.158.0"
