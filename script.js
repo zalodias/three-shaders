@@ -1,7 +1,7 @@
 import * as THREE from "three";
 
-import vertexShader from "./shaders/shader.vert";
 import fragmentShader from "./shaders/shader.frag";
+import vertexShader from "./shaders/shader.vert";
 
 var plane;
 var camera, scene, renderer, clock;
